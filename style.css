@@ -1,11 +1,62 @@
 button {
 
-    width: 200px;
+    width: 150px;
     height: 30px;
     box-sizing: border-box;
+    justify-content: center;
+    align-items: center;
+    display: inline-block;
+    background-color: rgb(182, 90, 24);
+    
+
 }
 
-h1 {
+a {
+    color: whitesmoke;
+
+}
+
+
+h1,
+h2  {
     font-family: cursive;
     color: rgb(81, 32, 13);
+    text-align: center;
 }
+
+h2 {
+    font-weight: bold;
+}
+
+img {
+    height: 200px;
+    width: auto;
+
+}
+
+h3 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+li {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.ingredients {
+    font-size: 17px;
+    font-style: oblique;
+
+}
+
+.ingredients, .steps {
+        color: rgb(23, 2, 2);
+
+    }
+
+.steps {
+    font-size: 15px;
+
+}
+
