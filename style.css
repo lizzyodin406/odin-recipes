@@ -1,4 +1,13 @@
-button {
+/*CSS stylesheet*/
+
+/*index*/
+
+div {
+    display: block;
+    padding: 75px;
+}
+
+.sites {
 
     width: 150px;
     height: 30px;
