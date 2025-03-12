@@ -40,7 +40,22 @@ h2 {
 img {
     height: 200px;
     width: auto;
-    justify-content: center;
+
+}
+
+img#reubenimg {
+    padding-left: 170px;
+
+}
+
+img#onionimg {
+    padding-left: 180px;
+
+}
+
+img#dipimg {
+    padding-left: 220px;
+
 }
 
 h3 {
