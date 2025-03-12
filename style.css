@@ -40,7 +40,7 @@ h2 {
 img {
     height: 200px;
     width: auto;
-
+    justify-content: center;
 }
 
 h3 {
@@ -70,6 +70,22 @@ li {
 }
 
 .homepage {
-    padding: 24px;
+    padding: 11px;
+    border-radius: 16px;
+    
+}
+
+#reuben {
+    background-color: rgb(216, 168, 97);
+
+}
+
+#onion {
+    background-color: rgb(135, 87, 68);
+
+}
+
+#dip {
+    background-color: rgb(183, 164, 136);
 
 }
